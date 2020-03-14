@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://MDX.github.io</id>
+    <id>https://xrmdx.github.io/jikexxg</id>
     <title>Gridea</title>
-    <updated>2020-03-14T23:07:43.593Z</updated>
+    <updated>2020-03-14T23:15:04.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://MDX.github.io"/>
-    <link rel="self" href="https://MDX.github.io/atom.xml"/>
+    <link rel="alternate" href="https://xrmdx.github.io/jikexxg"/>
+    <link rel="self" href="https://xrmdx.github.io/jikexxg/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://MDX.github.io/images/avatar.png</logo>
-    <icon>https://MDX.github.io/favicon.ico</icon>
+    <logo>https://xrmdx.github.io/jikexxg/images/avatar.png</logo>
+    <icon>https://xrmdx.github.io/jikexxg/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://MDX.github.io/post/hello-gridea/</id>
-        <link href="https://MDX.github.io/post/hello-gridea/">
+        <id>https://xrmdx.github.io/jikexxg/post/hello-gridea/</id>
+        <link href="https://xrmdx.github.io/jikexxg/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
