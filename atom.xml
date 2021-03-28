@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xrmdx.github.io/jikexxg</id>
-    <title>Gridea</title>
-    <updated>2020-03-15T08:38:06.978Z</updated>
+    <title>香瓜小站</title>
+    <updated>2021-03-28T13:00:34.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xrmdx.github.io/jikexxg"/>
     <link rel="self" href="https://xrmdx.github.io/jikexxg/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>Here&apos;s my life.</subtitle>
     <logo>https://xrmdx.github.io/jikexxg/images/avatar.png</logo>
     <icon>https://xrmdx.github.io/jikexxg/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2021, 香瓜小站</rights>
     <entry>
         <title type="html"><![CDATA[城市游记]]></title>
         <id>https://xrmdx.github.io/jikexxg/post/cheng-shi-you-ji/</id>
